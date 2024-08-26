@@ -1,6 +1,7 @@
 
-# <center> Hello everyone  👋</center>
+<h1 style="text-align: center;"> Hello everyone  👋</h1>
 ---
+
 
 ## My name is Jarek and I am a computer science student whose passion is programming 💻 
 
