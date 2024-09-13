@@ -1,11 +1,13 @@
-<h1 align="left">Hi 👋, I'm Jarosław Sularz</h1>
-<h2>Backend Developer</h2>
-<hr>
-<p>I am an ambitious professional who strives to achieve the highest standards in my professional work. I am determined to develop my skills and pursue tasks that align with my interests and passions. I am characterized by ease in establishing relationships and quick learning, which allows me to grow dynamically and adapt to changing conditions. I am ready to work effectively both as part of a team and independently, and my approach is based on commitment, open-mindedness and willingness to constantly expand my competencies.💻 </p>
+# Hi 👋, I'm Jarosław Sularz
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0A05F7&vCenter=true&width=435&height=25&lines=Backend+Developer)](https://git.io/typing-svg)
 
+<p>👨🏻‍💻I am an ambitious professional who strives to achieve the highest standards in my professional work. I am determined to develop my skills and pursue tasks that align with my interests and passions. I am characterized by ease in establishing relationships and quick learning, which allows me to grow dynamically and adapt to changing conditions. I am ready to work effectively both as part of a team and independently, and my approach is based on commitment, open-mindedness and willingness to constantly expand my competencies.💻 </p>
 
-* I create algorithms in C++: [Cpp-Algorithms](https://github.com/Feniks012/Cpp-Algorithms)
-* Contact with me: [Jarosław Sularz](https://www.linkedin.com/in/jaros%C5%82aw-sularz-4ab813253/)
+## 🟣&nbsp; Facts:
+- 🔬 I’m currently learning: ![Static Badge](https://img.shields.io/badge/C%23%20-%20black?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C)
+- 🌱 And practicing my [**algorithms in C++**](https://github.com/Feniks012/Cpp-Algorithms).
+- 📫 How to reach me: **jaro8620@gmail.com** or [![Static Badge](https://img.shields.io/badge/LinkedIn%20-%20%230A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaros%C5%82aw-sularz-4ab813253/)
+- ⚡ Fun fact: When I decide to learn something, it's hard to drag me away from it.
 
 ## 🛠&nbsp; Technologies and Tools:
 
